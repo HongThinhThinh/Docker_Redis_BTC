@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "uUIXDYS6MUcf5l+IRtbBeJKQm4233WgscIm42pnGmhOcqA8YMMBOdstmKXm1ulCbVq0CPwXVOJkdrAxSF1NMig==",
+  "success": true,
+  "projectFilePath": "D:\\destop\\FPT\\ki7\\PRN221\\DockerBitCoin\\WPFDisplay\\WPFDisplay.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ocbu0\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\ocbu0\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ocbu0\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\ocbu0\\.nuget\\packages\\nito.asyncex.coordination\\5.1.2\\nito.asyncex.coordination.5.1.2.nupkg.sha512",
+    "C:\\Users\\ocbu0\\.nuget\\packages\\nito.asyncex.tasks\\5.1.2\\nito.asyncex.tasks.5.1.2.nupkg.sha512",
+    "C:\\Users\\ocbu0\\.nuget\\packages\\nito.collections.deque\\1.1.1\\nito.collections.deque.1.1.1.nupkg.sha512",
+    "C:\\Users\\ocbu0\\.nuget\\packages\\nito.disposables\\2.2.1\\nito.disposables.2.2.1.nupkg.sha512",
+    "C:\\Users\\ocbu0\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\ocbu0\\.nuget\\packages\\stackexchange.redis\\2.7.33\\stackexchange.redis.2.7.33.nupkg.sha512",
+    "C:\\Users\\ocbu0\\.nuget\\packages\\stackexchange.redis.multiplexerpool\\2.2.0\\stackexchange.redis.multiplexerpool.2.2.0.nupkg.sha512",
+    "C:\\Users\\ocbu0\\.nuget\\packages\\system.collections.immutable\\1.7.1\\system.collections.immutable.1.7.1.nupkg.sha512",
+    "C:\\Users\\ocbu0\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
+    "C:\\Users\\ocbu0\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\ocbu0\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "VZl5o27rRNArnguxGUgs3aa4kC98GY2t7ETjWV91g588QlCUXU0mJfZx7y4aiNBAsP5+/1Cx/MYWWgO/BLv5XQ==",
+  "success": true,
+  "projectFilePath": "D:\\destop\\FPT\\ki7\\PRN221\\DockerBitCoin\\BitcoinFetcher\\BitcoinFetcher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ocbu0\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\ocbu0\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512",
+    "C:\\Users\\ocbu0\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\ocbu0\\.nuget\\packages\\stackexchange.redis\\2.8.16\\stackexchange.redis.2.8.16.nupkg.sha512",
+    "C:\\Users\\ocbu0\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

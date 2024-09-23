@@ -1,0 +1,234 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WPFDisplay/1.0.0": {
+        "dependencies": {
+          "StackExchange.Redis.MultiplexerPool": "2.2.0",
+          "System.Threading.Timer": "4.3.0"
+        },
+        "runtime": {
+          "WPFDisplay.dll": {}
+        }
+      },
+      "Microsoft.Extensions.Logging.Abstractions/6.0.0": {
+        "runtime": {
+          "lib/net6.0/Microsoft.Extensions.Logging.Abstractions.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "Microsoft.NETCore.Targets/1.1.0": {},
+      "Nito.AsyncEx.Coordination/5.1.2": {
+        "dependencies": {
+          "Nito.AsyncEx.Tasks": "5.1.2",
+          "Nito.Collections.Deque": "1.1.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Nito.AsyncEx.Coordination.dll": {
+            "assemblyVersion": "5.1.2.0",
+            "fileVersion": "5.1.2.0"
+          }
+        }
+      },
+      "Nito.AsyncEx.Tasks/5.1.2": {
+        "dependencies": {
+          "Nito.Disposables": "2.2.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Nito.AsyncEx.Tasks.dll": {
+            "assemblyVersion": "5.1.2.0",
+            "fileVersion": "5.1.2.0"
+          }
+        }
+      },
+      "Nito.Collections.Deque/1.1.1": {
+        "runtime": {
+          "lib/netstandard2.0/Nito.Collections.Deque.dll": {
+            "assemblyVersion": "1.1.1.0",
+            "fileVersion": "1.1.1.0"
+          }
+        }
+      },
+      "Nito.Disposables/2.2.1": {
+        "dependencies": {
+          "System.Collections.Immutable": "1.7.1"
+        },
+        "runtime": {
+          "lib/netstandard2.1/Nito.Disposables.dll": {
+            "assemblyVersion": "2.2.1.0",
+            "fileVersion": "2.2.1.0"
+          }
+        }
+      },
+      "Pipelines.Sockets.Unofficial/2.2.8": {
+        "dependencies": {
+          "System.IO.Pipelines": "5.0.1"
+        },
+        "runtime": {
+          "lib/net5.0/Pipelines.Sockets.Unofficial.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "2.2.8.1080"
+          }
+        }
+      },
+      "StackExchange.Redis/2.7.33": {
+        "dependencies": {
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.0",
+          "Pipelines.Sockets.Unofficial": "2.2.8"
+        },
+        "runtime": {
+          "lib/net6.0/StackExchange.Redis.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.7.33.41805"
+          }
+        }
+      },
+      "StackExchange.Redis.MultiplexerPool/2.2.0": {
+        "dependencies": {
+          "Nito.AsyncEx.Coordination": "5.1.2",
+          "StackExchange.Redis": "2.7.33"
+        },
+        "runtime": {
+          "lib/netstandard2.1/StackExchange.Redis.MultiplexerPool.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.0.0"
+          }
+        }
+      },
+      "System.Collections.Immutable/1.7.1": {},
+      "System.IO.Pipelines/5.0.1": {
+        "runtime": {
+          "lib/netcoreapp3.0/System.IO.Pipelines.dll": {
+            "assemblyVersion": "5.0.0.1",
+            "fileVersion": "5.0.120.57516"
+          }
+        }
+      },
+      "System.Runtime/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0",
+          "Microsoft.NETCore.Targets": "1.1.0"
+        }
+      },
+      "System.Threading.Timer/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0",
+          "Microsoft.NETCore.Targets": "1.1.0",
+          "System.Runtime": "4.3.0"
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WPFDisplay/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.Logging.Abstractions/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/HggWBbTwy8TgebGSX5DBZ24ndhzi93sHUBDvP1IxbZD7FDokYzdAr6+vbWGjw2XAfR2EJ1sfKUotpjHnFWPxA==",
+      "path": "microsoft.extensions.logging.abstractions/6.0.0",
+      "hashPath": "microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Targets/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-aOZA3BWfz9RXjpzt0sRJJMjAscAUm3Hoa4UWAfceV9UTYxgwZ1lZt5nO2myFf+/jetYQo4uTP7zS8sJY67BBxg==",
+      "path": "microsoft.netcore.targets/1.1.0",
+      "hashPath": "microsoft.netcore.targets.1.1.0.nupkg.sha512"
+    },
+    "Nito.AsyncEx.Coordination/5.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QMyUfsaxov//0ZMbOHWr9hJaBFteZd66DV1ay4J5wRODDb8+K/uHC7+3VsOflo6SVw/29mu8OWZp8vMDSuzc0w==",
+      "path": "nito.asyncex.coordination/5.1.2",
+      "hashPath": "nito.asyncex.coordination.5.1.2.nupkg.sha512"
+    },
+    "Nito.AsyncEx.Tasks/5.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jEkCfR2/M26OK/U4G7SEN063EU/F4LiVA06TtpZILMdX/quIHCg+wn31Zerl2LC+u1cyFancjTY3cNAr2/89PA==",
+      "path": "nito.asyncex.tasks/5.1.2",
+      "hashPath": "nito.asyncex.tasks.5.1.2.nupkg.sha512"
+    },
+    "Nito.Collections.Deque/1.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-CU0/Iuv5VDynK8I8pDLwkgF0rZhbQoZahtodfL0M3x2gFkpBRApKs8RyMyNlAi1mwExE4gsmqQXk4aFVvW9a4Q==",
+      "path": "nito.collections.deque/1.1.1",
+      "hashPath": "nito.collections.deque.1.1.1.nupkg.sha512"
+    },
+    "Nito.Disposables/2.2.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6sZ5uynQeAE9dPWBQGKebNmxbY4xsvcc5VplB5WkYEESUS7oy4AwnFp0FhqxTSKm/PaFrFqLrYr696CYN8cugg==",
+      "path": "nito.disposables/2.2.1",
+      "hashPath": "nito.disposables.2.2.1.nupkg.sha512"
+    },
+    "Pipelines.Sockets.Unofficial/2.2.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zG2FApP5zxSx6OcdJQLbZDk2AVlN2BNQD6MorwIfV6gVj0RRxWPEp2LXAxqDGZqeNV1Zp0BNPcNaey/GXmTdvQ==",
+      "path": "pipelines.sockets.unofficial/2.2.8",
+      "hashPath": "pipelines.sockets.unofficial.2.2.8.nupkg.sha512"
+    },
+    "StackExchange.Redis/2.7.33": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2kCX5fvhEE824a4Ab5Imyi8DRuGuTxyklXV01kegkRpsWJcPmO6+GAQ+HegKxvXAxlXZ8yaRspvWJ8t3mMClfQ==",
+      "path": "stackexchange.redis/2.7.33",
+      "hashPath": "stackexchange.redis.2.7.33.nupkg.sha512"
+    },
+    "StackExchange.Redis.MultiplexerPool/2.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-u4WGFYQaL1RMVUYR26Ui29S1SHeHaBspDIqNMEOHdEPskmYBtq1YSuwfDgwiBbhA2noLVQyTfSTV1DwGmPLKgQ==",
+      "path": "stackexchange.redis.multiplexerpool/2.2.0",
+      "hashPath": "stackexchange.redis.multiplexerpool.2.2.0.nupkg.sha512"
+    },
+    "System.Collections.Immutable/1.7.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-B43Zsz5EfMwyEbnObwRxW5u85fzJma3lrDeGcSAV1qkhSRTNY5uXAByTn9h9ddNdhM+4/YoLc/CI43umjwIl9Q==",
+      "path": "system.collections.immutable/1.7.1",
+      "hashPath": "system.collections.immutable.1.7.1.nupkg.sha512"
+    },
+    "System.IO.Pipelines/5.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qEePWsaq9LoEEIqhbGe6D5J8c9IqQOUuTzzV6wn1POlfdLkJliZY3OlB0j0f17uMWlqZYjH7txj+2YbyrIA8Yg==",
+      "path": "system.io.pipelines/5.0.1",
+      "hashPath": "system.io.pipelines.5.0.1.nupkg.sha512"
+    },
+    "System.Runtime/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JufQi0vPQ0xGnAczR13AUFglDyVYt4Kqnz1AZaiKZ5+GICq0/1MH/mO/eAJHt/mHW1zjKBJd7kV26SrxddAhiw==",
+      "path": "system.runtime/4.3.0",
+      "hashPath": "system.runtime.4.3.0.nupkg.sha512"
+    },
+    "System.Threading.Timer/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Z6YfyYTCg7lOZjJzBjONJTFKGN9/NIYKSxhU5GRd+DTwHSZyvWp1xuI5aR+dLg+ayyC5Xv57KiY4oJ0tMO89fQ==",
+      "path": "system.threading.timer/4.3.0",
+      "hashPath": "system.threading.timer.4.3.0.nupkg.sha512"
+    }
+  }
+}

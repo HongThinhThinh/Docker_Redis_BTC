@@ -1,0 +1,19 @@
+﻿<Window x:Class="WPFDisplay.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Bitcoin Price Tracker" Height="450" Width="800">
+    <Grid>
+        <StackPanel>
+            <!-- TextBlock hiển thị trạng thái kết nối Redis -->
+            <TextBlock Name="RedisConnectionStatusLabel" FontSize="16" Margin="10" Text="Redis Status: Connecting..."/>
+
+            <TextBlock Name="StartTimeLabel" FontSize="16" Margin="10" Text="Start Time:"/>
+            <TextBlock Name="StartPriceLabel" FontSize="16" Margin="10" Text="Start Price:"/>
+            <TextBlock Name="CurrentPriceLabel" FontSize="16" Margin="10" Text="Current Price:"/>
+            <TextBlock Name="MinPriceLabel" FontSize="16" Margin="10" Text="Min Price:"/>
+            <TextBlock Name="MaxPriceLabel" FontSize="16" Margin="10" Text="Max Price:"/>
+            <TextBlock Name="Last50PricesLabel" FontSize="16" Margin="10" Text="Last 50 Prices:"/>
+            <ListBox Name="PriceListBox" Height="200" Margin="10"/>
+        </StackPanel>
+    </Grid>
+</Window>
